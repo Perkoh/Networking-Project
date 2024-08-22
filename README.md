@@ -1,19 +1,21 @@
-# Networking-Project
+# Networking Project
 
 ## Objective
 
-The Detection Lab project aimed to establish a controlled environment for simulating and detecting cyber attacks. The primary focus was to ingest and analyze logs within a Security Information and Event Management (SIEM) system, generating test telemetry to mimic real-world attack scenarios. This hands-on experience was designed to deepen understanding of network security, attack patterns, and defensive strategies.
+This project showcases the design, configuration, and security of a robust network infrastructure. It covers key aspects of networking, including subnetting, routing, switching, VLANs, firewall configuration, VPN setup, and network monitoring. The project is designed to provide a hands-on experience in creating and managing a secure and efficient network environment.
 
 ### Skills Learned
 
-- Advanced understanding of SIEM concepts and practical application.
-- Proficiency in analyzing and interpreting network logs.
-- Ability to generate and recognize attack signatures and patterns.
-- Enhanced knowledge of network protocols and security vulnerabilities.
-- Development of critical thinking and problem-solving skills in cybersecurity.
+- Ability to design scalable and efficient network topologies based on requirements and constraints.
+- Proficiency in subnetting, IP address planning, and addressing schemes to optimize network performance and organization.
+- Hands-on experience with configuring and managing routing protocols such as OSPF, EIGRP, and BGP to ensure proper communication between network segments.
+- Skills in configuring VLANs, trunking, and Spanning Tree Protocol (STP) to manage network traffic and prevent loops.
+- Skills in creating and managing ACLs to control traffic based on IP addresses, protocols, and ports.
+- Ability to configure routers, switches, and firewalls, including managing interfaces, routing tables, and security settings.
 
 ### Tools Used
 
-- Security Information and Event Management (SIEM) system for log ingestion and analysis.
-- Network analysis tools (such as Wireshark and Tcpdump) for capturing and examining network traffic.
-- Packet captures from online platforms to get abressed with network attacks and attack scenarios.
+- Cisco Packet Tracer
+- Router
+- Switch
+- RJ45 cable
